@@ -1,10 +1,9 @@
-package java8.zadanie;
+package java8.zadanie1;
 
 import com.sun.istack.internal.NotNull;
 import lombok.*;
 
 import java.util.List;
-import java.util.Objects;
 
 @Builder
 @Getter

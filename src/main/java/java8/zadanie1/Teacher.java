@@ -1,4 +1,4 @@
-package java8.zadanie;
+package java8.zadanie1;
 
 import lombok.Builder;
 import lombok.EqualsAndHashCode;

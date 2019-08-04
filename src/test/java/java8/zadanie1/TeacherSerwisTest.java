@@ -1,4 +1,4 @@
-package java8.zadanie;
+package java8.zadanie1;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -8,7 +8,6 @@ import org.mockito.Mockito;
 import org.mockito.runners.MockitoJUnitRunner;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Map;
 
 import static org.junit.Assert.*;

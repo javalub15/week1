@@ -1,7 +1,6 @@
-package java8.zadanie;
+package java8.zadanie1;
 
 import lombok.AllArgsConstructor;
-import lombok.RequiredArgsConstructor;
 
 import java.util.*;
 import java.util.stream.Collectors;
