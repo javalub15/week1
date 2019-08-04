@@ -3,8 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="2c2fbe0a-eff0-4d8b-9e86-13e276dd672a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/zadanie/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/zadanie/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/java8/zadanie/StudentGraduadedPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/zadanie/StudentGraduadedPredicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/zadanie/StudyField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/zadanie/StudyField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/zadanie/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/zadanie/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/zadanie/TeacherSerwis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/zadanie/TeacherSerwis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java8/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/zadanie/StudentGraduadedPredicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java8/zadanie/StudentGraduadedPredicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/zadanie/StudyField.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java8/zadanie/StudyField.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,46 +24,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java8/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1261#1262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/StudentGraduadedPredicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/School.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/Clazz.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="246">
+              <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,20 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/TeacherSerwis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="-172">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,32 +61,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collections.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/StudentGraduadedPredicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="4419" column="36" selection-start-line="4419" selection-start-column="36" selection-end-line="4419" selection-end-column="36" />
-              <folding>
-                <element signature="e#175306#175307#0" expanded="true" />
-                <element signature="e#175349#175350#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Optional.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="285" column="51" lean-forward="true" selection-start-line="285" selection-start-column="51" selection-end-line="285" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/StudyField.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            <state relative-caret-position="-245">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,8 +75,68 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="40" selection-end-column="21" />
+            <state relative-caret-position="420">
+              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/StudyField.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/TeacherSerwis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/java8/zadanie/TeacherSerwisTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="40" column="71" lean-forward="true" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/Clazz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/School.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,8 +148,8 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -168,16 +178,17 @@
         <option value="$PROJECT_DIR$/src/test/java/zoo/AnimalTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/java8/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/java8/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/java8/zadanie/StudentGraduadedPredicateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8/zadanie/StudyField.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8/zadanie/Clazz.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8/zadanie/School.java" />
         <option value="$PROJECT_DIR$/src/main/java/java8/Main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/java8/zadanie/Student.java" />
-        <option value="$PROJECT_DIR$/src/test/java/java8/zadanie/StudentGraduadedPredicateTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java8/zadanie/StudyField.java" />
         <option value="$PROJECT_DIR$/src/main/java/java8/zadanie/StudentGraduadedPredicate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java8/zadanie/Clazz.java" />
         <option value="$PROJECT_DIR$/src/main/java/java8/zadanie/Teacher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java8/zadanie/School.java" />
         <option value="$PROJECT_DIR$/src/main/java/java8/zadanie/TeacherSerwis.java" />
+        <option value="$PROJECT_DIR$/src/test/java/java8/zadanie/TeacherSerwisTest.java" />
       </list>
     </option>
   </component>
@@ -282,7 +293,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564910532955" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564920456028" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Project" />
@@ -317,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StudentGraduadedPredicateTest">
+  <component name="RunManager" selected="JUnit.TeacherSerwisTest.testWhenPredicateIsTrue">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java8.Main" />
       <module name="zoo" />
@@ -327,32 +338,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnimalTest.testAssertFalseIfPolarBearAttacked3TimesBlackBear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="zoo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zoo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="zoo" />
-      <option name="MAIN_CLASS_NAME" value="zoo.AnimalTest" />
-      <option name="METHOD_NAME" value="testAssertFalseIfPolarBearAttacked3TimesBlackBear" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnimalTest.testShuldReturnTrueIfBearAte5DaysAgo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="zoo" />
-      <option name="PACKAGE_NAME" value="zoo" />
-      <option name="MAIN_CLASS_NAME" value="zoo.AnimalTest" />
-      <option name="METHOD_NAME" value="testShuldReturnTrueIfBearAte5DaysAgo" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -372,7 +357,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentGraduadedPredicateTest.testShouldAssertTrueIfMathematicStudentHasAverageGradesGreaterThan3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TeacherSerwisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="zoo" />
       <extension name="coverage">
         <pattern>
@@ -381,8 +366,39 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="java8.zadanie" />
-      <option name="MAIN_CLASS_NAME" value="java8.zadanie.StudentGraduadedPredicateTest" />
-      <option name="METHOD_NAME" value="testShouldAssertTrueIfMathematicStudentHasAverageGradesGreaterThan3" />
+      <option name="MAIN_CLASS_NAME" value="java8.zadanie.TeacherSerwisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherSerwisTest.testShouldReturnEmptyMapIfStudentGraduadedPredicateIsFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.zadanie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java8.zadanie" />
+      <option name="MAIN_CLASS_NAME" value="java8.zadanie.TeacherSerwisTest" />
+      <option name="METHOD_NAME" value="testShouldReturnEmptyMapIfStudentGraduadedPredicateIsFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherSerwisTest.testWhenPredicateIsTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.zadanie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java8.zadanie" />
+      <option name="MAIN_CLASS_NAME" value="java8.zadanie.TeacherSerwisTest" />
+      <option name="METHOD_NAME" value="testWhenPredicateIsTrue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -390,11 +406,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StudentGraduadedPredicateTest" />
-        <item itemvalue="JUnit.StudentGraduadedPredicateTest.testShouldAssertTrueIfMathematicStudentHasAverageGradesGreaterThan3" />
+        <item itemvalue="JUnit.TeacherSerwisTest.testWhenPredicateIsTrue" />
+        <item itemvalue="JUnit.TeacherSerwisTest" />
+        <item itemvalue="JUnit.TeacherSerwisTest.testShouldReturnEmptyMapIfStudentGraduadedPredicateIsFalse" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.AnimalTest.testAssertFalseIfPolarBearAttacked3TimesBlackBear" />
-        <item itemvalue="JUnit.AnimalTest.testShuldReturnTrueIfBearAte5DaysAgo" />
+        <item itemvalue="JUnit.StudentGraduadedPredicateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -412,15 +428,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AnimalTest_testShuldReturnTrueIfBearAte5DaysAgo - 2019.08.03 at 10h 18m 35s.xml">
-      <configuration name="AnimalTest.testShuldReturnTrueIfBearAte5DaysAgo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AnimalTest_testShuldReturnTrueIfBearAte5DaysAgo - 2019.08.03 at 10h 19m 58s.xml">
-      <configuration name="AnimalTest.testShuldReturnTrueIfBearAte5DaysAgo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AnimalTest_testShuldReturnTrueIfBearAte5DaysAgo - 2019.08.03 at 10h 21m 30s.xml">
-      <configuration name="AnimalTest.testShuldReturnTrueIfBearAte5DaysAgo" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AnimalTest_testAssertFalseIfPolarBearAttacked3TimesBlackBear - 2019.08.03 at 12h 53m 12s.xml">
       <configuration name="AnimalTest.testAssertFalseIfPolarBearAttacked3TimesBlackBear" configurationId="JUnit" />
     </history-entry>
@@ -430,12 +437,33 @@
     <history-entry file="StudentGraduadedPredicateTest - 2019.08.03 at 22h 21m 47s.xml">
       <configuration name="StudentGraduadedPredicateTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TeacherSerwisTest_testShouldReturnEmptyMapIfStudentGraduadedPredicateIsFalse - 2019.08.04 at 13h 42m 20s.xml">
+      <configuration name="TeacherSerwisTest.testShouldReturnEmptyMapIfStudentGraduadedPredicateIsFalse" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeacherSerwisTest_testShouldReturnEmptyMapIfStudentGraduadedPredicateIsFalse - 2019.08.04 at 13h 42m 35s.xml">
+      <configuration name="TeacherSerwisTest.testShouldReturnEmptyMapIfStudentGraduadedPredicateIsFalse" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeacherSerwisTest_testShouldReturnEmptyMapIfStudentGraduadedPredicateIsFalse - 2019.08.04 at 13h 46m 46s.xml">
+      <configuration name="TeacherSerwisTest.testShouldReturnEmptyMapIfStudentGraduadedPredicateIsFalse" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeacherSerwisTest_testWhenPredicateIsTrue - 2019.08.04 at 13h 55m 28s.xml">
+      <configuration name="TeacherSerwisTest.testWhenPredicateIsTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeacherSerwisTest_testWhenPredicateIsTrue - 2019.08.04 at 13h 57m 42s.xml">
+      <configuration name="TeacherSerwisTest.testWhenPredicateIsTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeacherSerwisTest - 2019.08.04 at 14h 01m 35s.xml">
+      <configuration name="TeacherSerwisTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeacherSerwisTest - 2019.08.04 at 14h 02m 11s.xml">
+      <configuration name="TeacherSerwisTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.04228188" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.02147651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -444,15 +472,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28470254" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34419262" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.06657224" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -631,16 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="28" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/Predicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
@@ -723,33 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="40" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/StudentGraduadedPredicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/Clazz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -761,20 +752,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/Teacher.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="344">
+          <caret line="1004" column="28" selection-start-line="1004" selection-start-column="27" selection-end-line="1004" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/BinaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="50" column="60" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="1211" column="17" selection-start-line="1211" selection-start-column="17" selection-end-line="1211" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="497" column="9" selection-start-line="497" selection-start-column="9" selection-end-line="497" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="528" column="35" selection-start-line="528" selection-start-column="35" selection-end-line="528" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1261#1262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/School.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/School.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/Clazz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="225">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -783,8 +827,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/StudyField.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        <state relative-caret-position="495">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -793,8 +837,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="246">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/StudentGraduadedPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -803,8 +867,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java8/zadanie/TeacherSerwis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="317">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/java8/zadanie/TeacherSerwisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="40" column="71" lean-forward="true" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -14,4 +14,11 @@ public class Student {
     @NotNull
     private final List<Double> grades;
     private final StudyField studyField;
+
+    public Double calculateAverageGrades() {
+        double sum = this.getGrades()
+                .stream()
+                .reduce(0.0, (a, b) -> a + b);
+        return sum/this.getGrades().size();
+    }
 }

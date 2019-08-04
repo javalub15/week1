@@ -31,6 +31,10 @@ public class Main {
         System.out.println("Marian: " + marian);
         boolean alina = startsWithAndHasLengthGreaterThan5.test("Alinaa");
         System.out.println("Alina: " + alina);
+
+
+
+
     }
 
     private static void disp(String a) {

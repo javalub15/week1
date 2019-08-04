@@ -12,10 +12,12 @@ public class StudentGraduadedPredicate implements Predicate<Student> {
 //        for (Double grade : grades) {
 //            suma += grade;
 //        }
-        double sum = student.getGrades()
-                .stream()
-                .reduce(0.0, (a, b) -> a + b);
-        double averageGrades = sum/student.getGrades().size();
+//        double sum = student.getGrades()
+//                .stream()
+//                .reduce(0.0, (a, b) -> a + b);
+//        double averageGrades = sum/student.getGrades().size();
+
+        double averageGrades = student.calculateAverageGrades();
 
         return Stream.of(StudyField.values())
                 .filter(studyField -> studyField.equals(student.getStudyField()))
